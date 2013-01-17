@@ -17,7 +17,7 @@
             .css('font-size', '1.4em')
             .css('line-height', '1.5em')
             .css('border', 'dashed 1px lightgray')
-            .css('background-image', "url('src/LinedPaperBackground.jpg')")
+            .css('background-image', "url('img/LinedPaperBackground.jpg')")
         ;
     };
 })(jQuery);
